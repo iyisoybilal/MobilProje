@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/activity_add_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/fragment_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudio/PetIO/app/src/main/res/layout/fragment_message.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_add_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_all_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/chatlist_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/fragment_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/fragment_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/message_item_left.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/message_item_right.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/layout/post_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/menu/item_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bilal/petIO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/myigituzun/Desktop/petIO/app/src/main/res/drawable/menuicon.xml" value="0.3828125" />
+        <entry key="..\:/Users/myigituzun/Desktop/petIO/app/src/main/res/layout/activity_add_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Desktop/petIO/app/src/main/res/layout/fragment_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Desktop/petIO/app/src/main/res/layout/post_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Desktop/petIO/app/src/main/res/menu/item_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/drawable/menuicon.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/drawable/message_left.xml" value="0.3828125" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/drawable/message_right.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_add_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_all_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_main.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/chatlist_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/fragment_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/fragment_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/message_item_left.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/message_item_right.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/layout/post_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/myigituzun/Documents/GitHub/PetIO/app/src/main/res/menu/item_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

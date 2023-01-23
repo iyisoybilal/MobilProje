@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647322365453",
+    "project_id": "petio-aaffe",
+    "storage_bucket": "petio-aaffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647322365453:android:22054d8c06f828b76e6f44",
+        "android_client_info": {
+          "package_name": "com.example.petio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647322365453-t2tjbh4qi11b0to9p19j5a6kadbeqml3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGpTeMwpDJtE3zo-TrfKZ0ZDNJD1IO9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647322365453-t2tjbh4qi11b0to9p19j5a6kadbeqml3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

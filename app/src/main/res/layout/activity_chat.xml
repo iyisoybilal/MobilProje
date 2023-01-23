@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Views.ChatActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chatActicityUsername"
+        android:textSize="18sp"
+        android:layout_marginVertical="10dp"
+        android:textStyle="bold"
+        android:text="Myigituzun"
+        android:textAlignment="center"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chatActicityRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/chatActicityUsername"
+        android:layout_above="@+id/bottom"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:cardCornerRadius="25dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginHorizontal="5dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+
+            <EditText
+                android:layout_marginHorizontal="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/sendMessageText"
+                android:layout_toLeftOf="@id/sendMessageButton"
+                android:layout_centerVertical="true"
+                android:hint="Bir mesaj yazın"
+                android:background="@android:color/transparent"
+                android:textSize="15sp"/>
+
+            <ImageButton
+                android:layout_marginVertical="3dp"
+                android:layout_width="30dp"
+                android:layout_centerVertical="true"
+                android:layout_height="30dp"
+                android:id="@+id/sendMessageButton"
+                android:layout_alignParentEnd="true"
+                android:background="@drawable/send" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
